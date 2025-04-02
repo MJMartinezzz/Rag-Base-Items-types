@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <types> 
+  	<type name="Aztec_Booster_Pack_1">
+    <nominal>40</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>	
+  <type name="Aztec_Booster_Pack_2">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  	<type name="Aztec_Booster_Pack_3">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+	<type name="Aztec_Card_Pack_Gold">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="land_Mats_Shelf">
+    <nominal>15</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+	<type name="land_Mats_Shelf_kit">
+	<lifetime>7200</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+ 	<type name="O12_Aztec_Mat_Dragon">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Danger">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Brickwall">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Gold_Triangle">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Abstract">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Clover">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Hell_Lava">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Lava_Rock">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Ice_Rock">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Honey_Bee">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Brains">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Etch">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Gamer">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Gwen">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Graffiti">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_OrangeSoda">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Websy">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Tiki">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Inferno">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Casino">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Gingerbread_Man">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Ripper">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Teddy_Bear">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Metal">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Aztec">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Illuminati">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Sackboy">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Space">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Toon">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Uniacc_2020">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Robot">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_SuperMat">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Aztec_Mat_Robber">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Statue1">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Statue2">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Statue3">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="O12_Statue4">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_1">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_2">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_3">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_4">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_5">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_6">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_7">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_8">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_9">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_10">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_11">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_2_1">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_2_2">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_2_3">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  <type name="Aztec_Mask_Face_2_4">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_5">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_6">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_7">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_8">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_9">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_10">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_11">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+
+  <type name="Aztec_Mask_Face_2_12">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1200</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Farm" />
+    <usage name="Town" />
+    <usage name="Village" />
+    <usage name="Hunting" />
+    <usage name="School" />
+    <usage name="Lunapark" />
+  </type>
+  	<type name="AD_001_Acuecucyoticihuati">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_002_Acxomocuil">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_003_Ahkinshok">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_004_Amapan">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_005_Amimitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_006_Atlaua">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_007_Azcatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_008_Camaxtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_009_Ce_Quiahuitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_010_Centeotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_011_Centzon_Huitznahua">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_012_Ce_Calli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_013_Ce_Cuauhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_014_Ce_Mazatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_015_Ce_Ozomatli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_016_Chalchiuhtecolotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_017_Chalchiuhtlatonac">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_018_Chalchiuhtlicue">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_019_Chalchiutotolin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_020_Chalmecacihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_021_Chalmecatecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_022_Chantico">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_023_Chicomecoatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_024_Chicome_Xochitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_025_Chiconahui_Ehecatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_026_Chiconahui_Itzcuintli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_027_Chimalma">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_028_Cihuapipiltzin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_029_Cipactli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_030_Cipactonal">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_031_Citlalatonac">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_032_Citlalicue">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_033_Citlatepetl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_034_Coatlicue">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_035_Coyolxauhqui">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_036_Coyotlinaual">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_037_Cuaxolotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_038_Ehecatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_039_Ahuitzotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_040_Huehuecihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_041_Huehuecoyotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_042_Huehueteotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_043_Huitzilopochtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_044_Huixtocihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_045_Ilamacihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_046_Ilamatecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_047_Ilancueye">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_048_Ilhuicamina">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_049_Itzaccihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_050_Itzcuintli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_051_Itzpapalotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_052_Itztlacoliuhqui">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_053_Itztli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_054_Ixcozauhqui">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_055_Ixcuina">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_056_Ixneextli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_057_Ixquimilli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_058_Ixquitecatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_059_Ixtlilton">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_060_Itztapaltotec">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_061_Macuil_Tochtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_062_Macuil_Cozcacuahtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_063_Macuil_Cuetzpalin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_064_Macuil_Malinalli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_065_Macuil_Ocelotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_066_Macuil_Xochitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_067_Malinalxochi">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_068_Matlalcueitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_069_Mayahuel">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_070_Metztli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_071_Mictlancihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_072_Mictlantecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_073_Miquiztlitecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_074_Mixcoatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_075_Nahui_Ehecatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_076_Nanahuatzin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_077_Nappatecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_078_Ocelotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_079_Omacatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_080_Omecihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_081_Ometecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_082_Ometeotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_083_Ome_Tochtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_084_Opochtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_085_Otontecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_086_Oxomoco">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_087_Painal">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_088_Patecatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_089_Piltzintecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_090_Piquete_Zina">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_091_Popocatepetl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_092_Quetzalcoatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_093_Quiahuitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_094_Quilaztli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_095_Tecciztecatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_096_Techalotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_097_Tepeyollotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_098_Tepoztecatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_099_Teteo_Innan">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_100_Tezcatlipoca">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_101_Tezcatzoncatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_102_Titlacahuan">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_103_Tlacotzontli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_104_Tlahuizcalpantecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_105_Tlalchi_Tonatiuh">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_106_Tlaloc">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_107_Tlaltecayoa">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_108_Tlaltecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_109_Tlatlauhqui_Tezcatlipoca">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_110_Tlazolteotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_111_Tlazopilli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_112_Toci">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_113_Tomiyauhtecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_114_Tonacacihuatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_115_Tonacatecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_116_Tonantzin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_117_Tonatiuh">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_118_Tzapatlantenen">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_119_Tzitzimime">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_120_Tzitzimitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_121_Uappatzin">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_122_Xilonen">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_123_Xipe_Totec">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_124_Xiuhcoatl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_125_Xiuhtecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_126_Xoaltecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_127_Xochipilli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_128_Xochiquetzal">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_129_Xolotl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_130_Yacapitzahuac">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_131_Yacatecuhtli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_132_Yauhqueme">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_133_Yohualticitl">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_134_Yohual_Tonatiuh">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_135_Youaltepuztli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+	<type name="AD_136_Zacatzontli">
+    <lifetime>1209600</lifetime>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+  </type>
+ </types>
+
+
+
+
+	
+	
+	
